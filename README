@@ -1,0 +1,16 @@
+#Front end
+Diretorio -> app_lista_tarefas_public
+
+#Back end
+Diretorio -> app_lista_tarefa
+
+#PHP version:
+PHP 7.4.28 
+
+#BD: 
+mysql (Maria DB)
+
+#################################
+
+- o banco de dados está na pasta arquivos necessários.
+
